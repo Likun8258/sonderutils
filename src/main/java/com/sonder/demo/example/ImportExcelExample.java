@@ -22,7 +22,7 @@ public class ImportExcelExample {
 
         List<ImportExcelVO> data = ExcelUtils.importExcel(new File(filePath), ImportExcelVO.class, new ImportParams());
         System.out.println(JSONObject.toJSON(data));
-        data.stream().forEach(vo -> System.out.println(vo.getStartDate()));
+        data.stream().forEach(vo -> System.out.println(vo));
     }
 
 }

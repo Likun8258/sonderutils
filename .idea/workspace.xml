@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a2fcd2a2-ecf7-468f-9643-66852a44cf69" name="Default Changelist" comment="根据计算公式计算结果">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sonder/demo/maintest/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sonder/demo/test/PredicateComposition.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lJrAulDiGRvwUIvDWr4aJVwkKn" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sonder.demo.util" />
+      <recent name="com.sonder.demo.vo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myprojects\sonderutils\src\main\java\com\sonder\demo\util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PredicateComposition">
+    <configuration name="ImportExcelExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonder.demo.example.ImportExcelExample" />
+      <module name="sonderutils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonder.demo.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyParse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonder.demo.test.MyParse" />
+      <module name="sonderutils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonder.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateComposition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonder.demo.test.PredicateComposition" />
+      <module name="sonderutils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonder.demo.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonder.demo.maintest.TestMain" />
+      <module name="sonderutils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonder.demo.maintest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sonder.demo.util.TimeUtils" />
+      <module name="sonderutils" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sonder.demo.util.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sonderutils" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sonder.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PredicateComposition" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Application.MyParse" />
+        <item itemvalue="Application.TimeUtils" />
+        <item itemvalue="Application.ImportExcelExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2fcd2a2-ecf7-468f-9643-66852a44cf69" name="Default Changelist" comment="" />
+      <created>1607325894807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607325894807</updated>
+      <workItem from="1607325896165" duration="216000" />
+      <workItem from="1607326129793" duration="4230000" />
+      <workItem from="1607397568964" duration="3099000" />
+      <workItem from="1608171076337" duration="2179000" />
+      <workItem from="1608183681094" duration="4585000" />
+      <workItem from="1609209218547" duration="697000" />
+      <workItem from="1610436292616" duration="1309000" />
+      <workItem from="1610504061688" duration="1675000" />
+      <workItem from="1610591037444" duration="608000" />
+      <workItem from="1610676058803" duration="3900000" />
+      <workItem from="1610932664539" duration="1223000" />
+      <workItem from="1611038407309" duration="1888000" />
+      <workItem from="1611112704423" duration="602000" />
+      <workItem from="1611196129485" duration="2488000" />
+      <workItem from="1611286174472" duration="896000" />
+      <workItem from="1611739943353" duration="728000" />
+      <workItem from="1611799820394" duration="1647000" />
+      <workItem from="1611826411676" duration="722000" />
+      <workItem from="1611886529763" duration="598000" />
+      <workItem from="1613980203627" duration="4128000" />
+    </task>
+    <task id="LOCAL-00001" summary="创建项目">
+      <created>1607326556744</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607326556744</updated>
+    </task>
+    <task id="LOCAL-00002" summary="创建项目">
+      <created>1607326596428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607326596428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="创建项目">
+      <created>1607334788928</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607334788928</updated>
+    </task>
+    <task id="LOCAL-00004" summary="上传文件工具类">
+      <created>1607407135353</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607407135353</updated>
+    </task>
+    <task id="LOCAL-00005" summary="根据计算公式计算结果">
+      <created>1610436979643</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610436979643</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="创建项目" />
+    <MESSAGE value="上传文件工具类" />
+    <MESSAGE value="根据计算公式计算结果" />
+    <option name="LAST_COMMIT_MESSAGE" value="根据计算公式计算结果" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="153" key="FileChooserDialogImpl" timestamp="1610693922544">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="153" key="FileChooserDialogImpl/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1610693922544" />
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom" timestamp="1613988930662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="117" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.83.1920.1040@-1920.83.1920.1040" timestamp="1608177580895" />
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1613988930662" />
+    <state width="1493" height="118" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1611223619533" />
+    <state width="1493" height="118" key="GridCell.Tab.0.center" timestamp="1613988930662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="117" key="GridCell.Tab.0.center/0.0.1536.824/-1920.83.1920.1040@-1920.83.1920.1040" timestamp="1608177580894" />
+    <state width="1493" height="118" key="GridCell.Tab.0.center/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1613988930662" />
+    <state width="1493" height="118" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1611223619533" />
+    <state width="1493" height="118" key="GridCell.Tab.0.left" timestamp="1613988930662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="117" key="GridCell.Tab.0.left/0.0.1536.824/-1920.83.1920.1040@-1920.83.1920.1040" timestamp="1608177580894" />
+    <state width="1493" height="118" key="GridCell.Tab.0.left/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1613988930662" />
+    <state width="1493" height="118" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1611223619533" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right" timestamp="1613988930662">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1476" height="117" key="GridCell.Tab.0.right/0.0.1536.824/-1920.83.1920.1040@-1920.83.1920.1040" timestamp="1608177580894" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1613988930662" />
+    <state width="1493" height="118" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1611223619533" />
+    <state width="1493" height="278" key="GridCell.Tab.1.bottom" timestamp="1607327100547">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.1.bottom/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607327100547" />
+    <state width="1493" height="278" key="GridCell.Tab.1.center" timestamp="1607327100546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.1.center/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607327100546" />
+    <state width="1493" height="278" key="GridCell.Tab.1.left" timestamp="1607327100546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.1.left/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607327100546" />
+    <state width="1493" height="278" key="GridCell.Tab.1.right" timestamp="1607327100546">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="278" key="GridCell.Tab.1.right/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607327100546" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1607407014233">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607407014233" />
+    <state x="-1582" y="156" key="SettingsEditor" timestamp="1611739979584">
+      <screen x="-1920" y="84" width="1920" height="1040" />
+    </state>
+    <state x="270" y="57" key="SettingsEditor/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607326327093" />
+    <state x="-1582" y="156" key="SettingsEditor/0.0.1536.824/-1920.84.1920.1040@-1920.84.1920.1040" timestamp="1611739979584" />
+    <state x="367" y="144" key="Vcs.Push.Dialog.v2" timestamp="1610436981129">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="367" y="144" key="Vcs.Push.Dialog.v2/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1610436981129" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1611286192415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1920.83.1920.1040@0.0.1536.824" timestamp="1607334451158" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1611286192415" />
+  </component>
+</project>
